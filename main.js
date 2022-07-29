@@ -12,7 +12,7 @@ const projects = [
       imageUrl: './Images/mwm1.jpg',
       imageAltText: 'Connect-With-Mentor Home Page',
     },
-    links: ['https://singular-praline-6c1ab9.netlify.app', 'https://github.com/wsong5077/origin.git'],
+    links: ['https://meet-mentor.netlify.app', 'https://github.com/wsong5077/origin.git'],
   },
   {
     name: 'Study Hub React Web App',
@@ -24,7 +24,7 @@ const projects = [
       imageUrl: './Images/sh1.jpg',
       imageAltText: 'Study Hub',
     },
-    links: ['https://62e16dcaef9c4d4d61f13158--cosmic-sunshine-669685.netlify.app/', 'https://github.com/wsong5077/study-hub-v2.git'],
+    links: ['https://study-hub-pomodoro.netlify.app', 'https://github.com/wsong5077/study-hub-v2.git'],
   },
   
 ];
